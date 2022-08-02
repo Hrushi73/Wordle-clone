@@ -7,8 +7,11 @@ There aren't any clues up front, so any five-letter word will do as an initial g
 2. If it turns yellow, the letter is in the word but you have it in the wrong position.
 3. If the box turns grey, it means the letter isn't in the word at all.
 
-![1](https://user-images.githubusercontent.com/78737552/182459183-30575a20-8a14-4677-8c0b-44069e7c9f18.png)
+when you first time visit website you can read instructions 
 ![2](https://user-images.githubusercontent.com/78737552/182459193-5689c86c-5dc2-44ff-8640-68c3812f4637.png)
+![1](https://user-images.githubusercontent.com/78737552/182459183-30575a20-8a14-4677-8c0b-44069e7c9f18.png)
+
+
 ![3](https://user-images.githubusercontent.com/78737552/182459256-1117bbad-4269-42c6-a027-92b4bc21bf02.png)
 ![4](https://user-images.githubusercontent.com/78737552/182459266-c2008c85-6a23-4ed4-890f-435ddd976244.png)
 ![5](https://user-images.githubusercontent.com/78737552/182459273-05616aa5-3754-4a13-b090-fecdb2f5cdc6.png)
