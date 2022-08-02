@@ -7,6 +7,13 @@ There aren't any clues up front, so any five-letter word will do as an initial g
 2. If it turns yellow, the letter is in the word but you have it in the wrong position.
 3. If the box turns grey, it means the letter isn't in the word at all.
 
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/zkBxxy9wrdL?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/zkBxxy9wrdL/embed" width="640" height="360"></iframe>
+        </div>
+
 when you first time visit website you can read instructions 
 ![2](https://user-images.githubusercontent.com/78737552/182459193-5689c86c-5dc2-44ff-8640-68c3812f4637.png)
 ![1](https://user-images.githubusercontent.com/78737552/182459183-30575a20-8a14-4677-8c0b-44069e7c9f18.png)
