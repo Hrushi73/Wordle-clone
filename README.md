@@ -8,7 +8,8 @@ There aren't any clues up front, so any five-letter word will do as an initial g
 3. If the box turns grey, it means the letter isn't in the word at all.
 
 when you first time visit website you can read instructions 
-https://github.com/Hrushi73/Wordle-clone/blob/main/Instructions.gif
+![](https://github.com/Hrushi73/Wordle-clone/blob/main/Instructions.gif)
+
 ![1](https://user-images.githubusercontent.com/78737552/182459183-30575a20-8a14-4677-8c0b-44069e7c9f18.png)
 
 
